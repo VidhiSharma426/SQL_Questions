@@ -10,7 +10,7 @@ The questions covered in this repository highlight my ability to analyze data, d
 
 ### Connect with Me
 
-### My heartful thanks to Om rai and Ankit Bnasal Sir 
+#### My heartful thanks to Om rai and Ankit Bansal Sir 
 
 You can find me on LinkedIn for more insights and updates:  
 [My LinkedIn Profile](https://www.linkedin.com/in/vidhi-sharma-340b22228/)
